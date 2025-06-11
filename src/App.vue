@@ -7,6 +7,8 @@ import ServicesSection from "./components/ServicesSection.vue";
 import ContactSection from "./components/ContactSection.vue";
 import SocialSection from "./components/SocialSection.vue";
 import FooterSection from "./components/FooterSection.vue";
+import TestimonialsSection from "./components/TestimonialsSection.vue";
+import AlvaraSection from "./components/AlvaraSection.vue";
 
 const showArrow = ref(false);
 const lastSection = ref<HTMLElement | null>(null);
@@ -38,10 +40,11 @@ onMounted(() => {
     <MissionVisionSection />
     <ServicesSection />
     <ContactSection />
-
+    <SocialSection />
+    <TestimonialsSection />
     <!-- Última seção observada -->
     <div ref="lastSection">
-      <SocialSection />
+      <AlvaraSection />
     </div>
 
     <FooterSection />

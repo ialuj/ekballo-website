@@ -8,6 +8,17 @@
         &copy; 2025 <strong>Ekballo Consultoria, SU, LDA</strong>. Todos os
         direitos reservados.
       </p>
+      <p class="mb-0">
+        Desenvolvido por:
+        <strong
+          ><a
+            href="https://ialuj.github.io/phanda-site/"
+            target="_blank"
+            style="color: whitesmoke"
+            >Phanda Tech Solutions, SU, LDA</a
+          ></strong
+        >
+      </p>
     </div>
   </footer>
 </template>

@@ -20,7 +20,7 @@
           <li class="d-flex align-items-center">
             <i class="bi bi-whatsapp text-success fs-4 me-2"></i>
             <a
-              href="https://wa.me/258840000000"
+              href="https://wa.me/258833717701"
               target="_blank"
               class="text-decoration-none"
             >

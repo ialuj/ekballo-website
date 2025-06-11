@@ -10,11 +10,12 @@
         <div class="mx-auto" style="max-width: 800px">
           <p>
             <i class="bi bi-geo-alt-fill text-danger me-2"></i>
-            <strong>Endereço:</strong> Av. de Moçambique, Cidade de Maputo
+            <strong>Endereço:</strong> Av./Rua 04 de Outubro, Bairro George
+            Dimitrov, Nº Outro, Andar R/C, Kamubukwana, Maputo Cidade
           </p>
           <p>
             <i class="bi bi-telephone-fill text-success me-2"></i>
-            <strong>Telefone:</strong> +258 84 000 0000 / +258 87 000 0000
+            <strong>Telefone:</strong> +258 84 10 55 660
           </p>
           <p>
             <i class="bi bi-envelope-at-fill text-info me-2"></i>
