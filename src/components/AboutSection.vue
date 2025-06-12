@@ -9,8 +9,8 @@
         <p class="card-text mx-auto" style="max-width: 800px">
           A <strong>Ekballo Consultoria</strong> é uma empresa moçambicana
           comprometida com a excelência e inovação em serviços de consultoria,
-          contabilidade e legalização. Atuamos com foco em pessoas singulares e
-          coletivas, oferecendo soluções personalizadas e eficientes.
+          Licenciamento de Empresas, Serviços de Contabilidade, Tramitação de
+          Vistos de Trabalho e Consultoria em Politica interna e Externa.
         </p>
       </div>
     </div>
